@@ -1,0 +1,15 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "vehicleId": 1,
+        "lat": 37.5108333,
+        "lng": 22.38571,
+        "dateStored": 1717682537000,
+        "velocity": 0.0,
+        "odometer": 0.0,
+        "engineVoltage": 0.28,
+        "dateStoredHuman": "2024-06-06 17:02:17",
+        "dateOnlyStoredHuman": 
