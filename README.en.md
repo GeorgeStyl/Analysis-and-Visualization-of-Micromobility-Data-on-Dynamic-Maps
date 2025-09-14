@@ -80,3 +80,17 @@ To ensure smooth execution of the notebooks, follow this order:
 
 1. Run `all_data_analysis.ipynb` first. It updates the CSV files needed in the next steps.
 2. Then run `visualize_danger_areas_v1.ipynb` and `projection_to_streetsv2.ipynb`, since both depend on the output data from the previous step.
+
+
+
+---
+
+# The following figures illustrate the results of the data analysis as visualized using ArcGIS Online
+1. All data points from every vehicle inside Tripoli's (Greece) coordinates
+[Alt text](Analysis-and-Visualization-of-Micromobility-Data-on-Dynamic-Maps/Python_Scripts/ArcGIS/Screenshots/all_data_points.png)
+2. All of Tripoli's roads
+[Alt text](Analysis-and-Visualization-of-Micromobility-Data-on-Dynamic-Maps/Python_Scripts/ArcGIS/Screenshots/Tripoli_roads.png)
+3. Heatmap of problematic deceleration
+[Alt text](Analysis-and-Visualization-of-Micromobility-Data-on-Dynamic-Maps/Python_Scripts/ArcGIS/Screenshots/problematic_acc.png)
+4. All data points of vehicle_id: 9 and trip_id: 18
+[Alt text](Analysis-and-Visualization-of-Micromobility-Data-on-Dynamic-Maps/Python_Scripts/ArcGIS/Screenshots/v9_v18.png)
