@@ -79,3 +79,21 @@ UPDATE_DB     = False
 
 1. Εκτελέστε πρώτα το `all_data_analysis.ipynb`. Αυτό το notebook ενημερώνει τα σχετικά CSV αρχεία που απαιτούνται για τα επόμενα βήματα.
 2. Στη συνέχεια, εκτελέστε τα `visualize_danger_areas_v1.ipynb` και `projection_to_streetsv2.ipynb`, αφού το πρώτο έχει ολοκληρωθεί, καθώς αυτά τα δύο notebooks εξαρτώνται από τα δεδομένα που θα παραχθούν από το `all_data_analysis.ipynb`.
+
+---
+
+# Οι παρακάτω εικόνες απεικονίζουν τα αποτελέσματα της ανάλυσης δεδομένων όπως αποτυπώθηκαν στο ArcGIS Online
+
+1. Όλα τα σημεία δεδομένων από κάθε όχημα μέσα στα όρια της Τρίπολης (Ελλάδα)  
+   ![Όλα τα σημεία δεδομένων](Python_Scripts/ArcGIS/Screenshots/all_data_points.png)
+
+2. Όλοι οι δρόμοι της Τρίπολης  
+   ![Δρόμοι Τρίπολης](Python_Scripts/ArcGIS/Screenshots/Tripoli_roads.png)
+
+3. Θερμικός χάρτης προβληματικής επιβράδυνσης  
+   ![Θερμικός χάρτης επιβράδυνσης](Python_Scripts/ArcGIS/Screenshots/problematic_acc.png)
+
+4. Όλα τα σημεία δεδομένων για το όχημα με `vehicle_id: 9` και το ταξίδι με `trip_id: 18`  
+   (τα πράσινα σημεία δεδομένων αντιστοιχούν στο συγκεκριμένο όχημα και ταξίδι)  
+   ![Όχημα 9 - Ταξίδι 18](Python_Scripts/ArcGIS/Screenshots/v9_v18.png)
+
