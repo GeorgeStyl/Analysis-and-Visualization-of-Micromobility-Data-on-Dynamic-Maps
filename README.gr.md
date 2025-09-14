@@ -90,7 +90,7 @@ UPDATE_DB     = False
 2. Όλοι οι δρόμοι της Τρίπολης  
    ![Δρόμοι Τρίπολης](Python_Scripts/ArcGIS/Screenshots/Tripoli_roads.png)
 
-3. Θερμικός χάρτης προβληματικής επιβράδυνσης  
+3. Heatmap της προβληματικής επιβράδυνσης  
    ![Θερμικός χάρτης επιβράδυνσης](Python_Scripts/ArcGIS/Screenshots/problematic_acc.png)
 
 4. Όλα τα σημεία δεδομένων για το όχημα με `vehicle_id: 9` και το ταξίδι με `trip_id: 18`  
