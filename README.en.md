@@ -87,13 +87,14 @@ To ensure smooth execution of the notebooks, follow this order:
 # The following figures illustrate the results of the data analysis as visualized using ArcGIS Online
 
 1. All data points from every vehicle inside Tripoli's (Greece) coordinates  
-   ![All data points](Analysis-and-Visualization-of-Micromobility-Data-on-Dynamic-Maps/Python_Scripts/ArcGIS/Screenshots/all_data_points.png)
+   ![All data points](Python_Scripts/ArcGIS/Screenshots/all_data_points.png)
 
 2. All of Tripoli's roads  
-   ![Tripoli roads](Analysis-and-Visualization-of-Micromobility-Data-on-Dynamic-Maps/Python_Scripts/ArcGIS/Screenshots/Tripoli_roads.png)
+   ![Tripoli roads](Python_Scripts/ArcGIS/Screenshots/Tripoli_roads.png)
 
 3. Heatmap of problematic deceleration  
-   ![Problematic deceleration heatmap](Analysis-and-Visualization-of-Micromobility-Data-on-Dynamic-Maps/Python_Scripts/ArcGIS/Screenshots/problematic_acc.png)
+   ![Problematic deceleration heatmap](Python_Scripts/ArcGIS/Screenshots/problematic_acc.png)
 
 4. All data points of vehicle_id: 9 and trip_id: 18  
-   ![Vehicle 9 Trip 18](Analysis-and-Visualization-of-Micromobility-Data-on-Dynamic-Maps/Python_Scripts/ArcGIS/Screenshots/v9_v18.png)
+   ![Vehicle 9 Trip 18](Python_Scripts/ArcGIS/Screenshots/v9_v18.png)
+
