@@ -95,6 +95,6 @@ To ensure smooth execution of the notebooks, follow this order:
 3. Heatmap of problematic deceleration  
    ![Problematic deceleration heatmap](Python_Scripts/ArcGIS/Screenshots/problematic_acc.png)
 
-4. All data points of vehicle_id: 9 and trip_id: 18  
+4. All data points of vehicle_id: 9 and trip_id: 18  (the green data points belong to the corresponding vehicle & trip)
    ![Vehicle 9 Trip 18](Python_Scripts/ArcGIS/Screenshots/v9_v18.png)
 
